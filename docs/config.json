@@ -1,0 +1,13 @@
+{
+	"title": "Test Doc Generation",
+	"tagline": "Generating Documentation Like In 2019",
+	"image": "cal.jpg",
+	"ignore": {
+		"folders": ["images"]
+	},
+	"format": "html",
+	"html": {
+		"auto_landing": true
+	},
+	"processor": "DocProc"
+}
