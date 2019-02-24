@@ -9,7 +9,11 @@
 	"html": {
 		"auto_landing": true,
 		"search": true,
-		"repo": "gfrey/daux_docs"
+		"repo": "gfrey/daux_docs",
+		"links": {
+			"Github Repo": "https://github.com/gfrey/daux_docs"
+		}
+		
 	},
 	"processor": "DocProc"
 }
