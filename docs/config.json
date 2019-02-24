@@ -8,7 +8,8 @@
 	"format": "html",
 	"html": {
 		"auto_landing": true,
-		"search": true
+		"search": true,
+		"repo": "gfrey/daux_docs"
 	},
 	"processor": "DocProc"
 }
